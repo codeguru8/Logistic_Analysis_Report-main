@@ -20,7 +20,7 @@
 
 This data analysis project aims to provide insights into visualizing key metrics to drive informed decision-making within organizations. By analyzing various aspects of the data, I seek to identify trends, order by city, region, category and segement. make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![Logistic_Report](https://github.com/codeguru8/Logistic_Analysis_Report-main/commit/ff7c83a345c9b572028c3b4bc5b6a5cf745755c0)
+![Logistic_Report](https://github.com/codeguru8/Logistic_Analysis_Report-main/blob/main/Logistic_Report.pdf)
 
 
 ### Data Sources
